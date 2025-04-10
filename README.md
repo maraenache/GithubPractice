@@ -15,6 +15,8 @@ Contains key commands, notes, and hands-on practice with version control.
 - Pushing to GitHub
 - .gitignore usage
 - Pull requests basics
+- Git From Command Line
+- Github Desktop
 
 ---
 
@@ -32,3 +34,5 @@ This is a personal reference to:
 1. Clone this repo:  
    ```bash
    git clone https://github.com/maraenache/GithubPractice.git
+
+COURSE LINK: [GitHubCourse](https://www.linkedin.com/learning/learning-github-18719601)
