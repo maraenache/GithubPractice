@@ -17,6 +17,7 @@ Contains key commands, notes, and hands-on practice with version control.
 - Pull requests basics
 - Git From Command Line
 - Github Desktop
+- Git CLI Commands: [link_manual](https://cli.github.com/manual/gh)
 
 ---
 
