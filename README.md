@@ -36,3 +36,9 @@ This is a personal reference to:
    git clone https://github.com/maraenache/GithubPractice.git
 
 COURSE LINK: [GitHubCourse](https://www.linkedin.com/learning/learning-github-18719601)
+
+### 📋 Personal Feedback – Favorite Chapter
+
+I found Chapter 6. Deploying Websites with Git and Github **extremely interesting** – definitely the **most helpful** one in the course so far. The information is clear, practical, and directly applicable to real-life scenarios.
+
+ **Action Plan:** I’m planning to use what I learned here to create a **professional CV**. This is an important step for my personal development, and this chapter gave me exactly the tools I needed.
